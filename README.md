@@ -1,16 +1,29 @@
-### Hi there 👋
+### Opá, tranquilo? 👋
 
-<!--
-**oguialmeida/oguialmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando na FTT (Fábrica de Técnoligias Turing).
+- 🌱 Estou aprendendo Java, utilizando como ambiente IntelliJ IDEA.
+- 📫 Como entrar em contato comigo: guilherme.almeida6875@gmail.com 
+- ⚡ Fun fact: Pensei em uma piada com binário. Resolvi não fazer, porque: 1. Não seria engraçado. 0. Veja, eu estava certo.
 
-Here are some ideas to get you started:
+<div>
+   <a href="https://github.com/oguialmeida">
+   <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=oguialmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+   <img align="reghit" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguialmeida&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-C" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Gui-C" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Gui-C" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Gui-C" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+</div>
+  
+ ##
+  
+<div>  
+   <a href="https://www.instagram.com/guilherme_g0/" target="_blank"><img height="60" width="180" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/guilherme-almeida-23743421a/" target="_blank"><img height="60" width="180" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
