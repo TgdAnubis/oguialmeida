@@ -1,5 +1,7 @@
 ### Opá, tranquilo? 👋
 
+- 🎓 Estudante de Engenharia de Software pela Universidade Evangélica de Goiás.
+- 🧢 22 Anos.
 - 🔭 Atualmente trabalhando na FTT (Fábrica de Técnoligias Turing).
 - 🌱 Estou aprendendo Java, utilizando como ambiente IntelliJ IDEA.
 - 📫 Como entrar em contato comigo: guilherme.almeida6875@gmail.com 
