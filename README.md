@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalhando na FTT (Fábrica de Técnoligias Turing).
 - 🌱 Estou aprendendo Java, utilizando como ambiente IntelliJ IDEA.
 - 📫 Como entrar em contato comigo: guilherme.almeida6875@gmail.com 
-- ⚡ Fun fact: Pensei em uma piada com binário. Resolvi não fazer, porque: 1. Não seria engraçado. 0. Veja, eu estava certo.
 
 <div>
    <a href="https://github.com/oguialmeida">
